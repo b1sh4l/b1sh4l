@@ -3,7 +3,6 @@ I am a Computer Science and Engineering undergraduate student at the American In
 
 Skills: NEST / JS / HTML / ASP .NET
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning REACT.JS 
 
 
