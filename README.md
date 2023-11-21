@@ -14,8 +14,6 @@ Skills: NEST / JS / HTML / ASP .NET
     </div>
     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1sh4l&layout=compact&theme=dark" alt="Top Langs" />
-    </div>
-    <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=b1sh4l&show_icons=true&theme=dark" alt="GitHub Stats" />
     </div>
     <div style="flex: 1; min-width: 300px; margin: 10px;">
