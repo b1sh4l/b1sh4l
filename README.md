@@ -4,6 +4,7 @@ I am a Computer Science and Engineering undergraduate student at the American In
 Skills: NEST / JS / HTML / ASP .NET
 
 - 🌱 I’m currently learning REACT.JS 
+- 🧑‍💻 <a href="https://github.com/b1sh4l/b1sh4l/blob/main/SudarshanSaha_Bishal.pdf">Find My Resume Here</a>
 
 [<img src='https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white' alt='github'>](https://github.com/b1sh4l)  [<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/sudarshan-saha-bishal-476158ba//)  [<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/shre3man)  [<img src='https://img.shields.io/badge/Behance-%231877F2.svg?&style=for-the-badge&logo=Behance&logoColor=white' alt='behance'>](https://www.behance.net/sudarshansa4ce)  
 
