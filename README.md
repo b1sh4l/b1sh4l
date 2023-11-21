@@ -5,7 +5,8 @@ Skills: NEST / JS / HTML / ASP .NET
 
 - 🌱 I’m currently learning REACT.JS 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#8B949E'>](https://github.com/b1sh4l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#8B949E'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sudarshan-saha-bishal-476158ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='color:#8B949E'>](https://twitter.com/shre3man)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40' style='color:#8B949E'>](https://www.behance.net/sudarshansa4ce)  
+[<img src='https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white' alt='github'>](https://github.com/b1sh4l)  [<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sudarshan-saha-bishal-476158ba//)  [<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/shre3man)  [<img src='https://img.shields.io/badge/Behance-%231877F2.svg?&style=for-the-badge&logo=Behance&logoColor=white' alt='behance'>](https://www.behance.net/sudarshansa4ce)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1sh4l&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
