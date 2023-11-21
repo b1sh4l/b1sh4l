@@ -14,8 +14,8 @@ Skills: NEST / JS / HTML / ASP .NET
     </div>
    <div style="display: flex; justify-content: space-evenly; align-items: flex-start; width: 100%;">
     <div style="flex: 1 1 300px; margin: 10px; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); display: flex; flex-direction: column;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1sh4l&layout=compact&theme=dark" alt="Top Langs" style="width: 100%; border-radius: 8px 8px 0 0; flex: 1 1 auto;" />
-        <img src="https://github-readme-stats.vercel.app/api?username=b1sh4l&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%; border-radius: 0 0 8px 8px; flex: 1 1 auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1sh4l&layout=compact&theme=dark" alt="Top Langs" style="border-radius: 8px 8px 0 0; flex: 1 1 auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=b1sh4l&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 0 0 8px 8px; flex: 1 1 auto;" />
     </div>
 </div>
     <div style="flex: 1; min-width: 300px; margin: 10px;">
